@@ -1,4 +1,4 @@
-Click View Raw after selecting the Final year Presentation to view the ppt file.
+Click View Raw after selecting the Final year Presentation.pptx to view the PowerPoint Presentation file.
 
 ---
 
