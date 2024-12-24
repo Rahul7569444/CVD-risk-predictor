@@ -1,16 +1,9 @@
-TO VIEW THE PPT FILE
-[https://docs.google.com/presentation/d/1FE7fYDuLmM1jdJimunBgdEGb1Ppx9TW-/edit?usp=drive_link&ouid=108215915749467567227&rtpof=true&sd=true](url)
-
-OR
-
-Click View Raw after selecting the Final year Presentation.pptx to view the PowerPoint Presentation file.
-
----
-
 # Developing a Predictable and Explainable Model for Cardiovascular Diseases
 
 ## Overview
 Cardiovascular diseases (CVDs) are among the leading causes of mortality worldwide. This project focuses on creating predictive and explainable models for diagnosing CVDs to enhance medical decision-making. By leveraging cutting-edge machine learning techniques and explainable AI (XAI), the research aims to improve diagnosis accuracy and provide actionable insights for healthcare professionals.
+
+**View Presentation**: [Final Year Presentation - Cardiovascular Diseases](https://docs.google.com/presentation/d/1FE7fYDuLmM1jdJimunBgdEGb1Ppx9TW-/edit?usp=drive_link&ouid=108215915749467567227&rtpof=true&sd=true)
 
 ---
 
@@ -65,9 +58,6 @@ This project developed:
 - Utilized LIME to provide interpretable insights for clinicians.
 - Workflow integrated ECG data and other medical features.
 
-![Ensemble Model Workflow](#)  
-![XAI Model Workflow](#)
-
 ---
 
 ## Results
@@ -77,9 +67,6 @@ This project developed:
   - **Confusion Matrix**: Model performance on test data.
   - **Precision-Recall Curve**: Evaluation of sensitivity and specificity.
   - **ROC Curve**: Performance comparison among models.
-
-![Model Accuracies Comparison](#)  
-![Features Impact of Patient](#)
 
 ---
 
@@ -109,4 +96,5 @@ This project developed:
 2. Yifeng Gao et al., "Deep learning-based prognostic model..." European Radiology, 2023.
 3. [Nature: Post-COVID CVD Trends](https://www.nature.com/articles/d41586-022-02074-3)
 
-For a full list of references, see the `References` section in the [presentation]
+For a full list of references, see the `References` section in the [presentation](https://docs.google.com/presentation/d/1FE7fYDuLmM1jdJimunBgdEGb1Ppx9TW-/edit?usp=drive_link&ouid=108215915749467567227&rtpof=true&sd=true).
+
